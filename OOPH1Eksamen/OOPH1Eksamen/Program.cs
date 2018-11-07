@@ -2,11 +2,12 @@
 
 namespace OOPH1Eksamen
 {
-    class MainClass
-    {
-        public static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+    //OPG Lav en constructor der sætter alle properties af A
+    class A {
+        public int a;
+        public string b;
+        public double c;
     }
+
+
 }
